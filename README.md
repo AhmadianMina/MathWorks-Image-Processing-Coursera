@@ -1,4 +1,4 @@
-*Image Processing for Engineering and Science** - _MathWorks_ (Coursera Specialization)
+**Image Processing for Engineering and Science** - _MathWorks_ (Coursera Specialization)
 1. Introduction to Image Processing
    - Module 1: Introduction to Digital Images
    - Module 2: Working with Image Data
